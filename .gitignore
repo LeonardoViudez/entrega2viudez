@@ -1,0 +1,10 @@
+# SO / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Builds
+dist/
+node_modules/
+.env
