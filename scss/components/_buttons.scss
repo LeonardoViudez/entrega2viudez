@@ -3,3 +3,17 @@
 
 .btn{ @include btn-skin($clr-primary,$clr-primary-hover) }
 .cta-cart{ text-transform:none }
+
+.btn {
+    &:hover {
+      animation-name: pulse;      
+      animation-duration: .6s;   
+      animation-fill-mode: both; 
+      animation-timing-function: ease-in-out;
+    }
+  }
+  
+  @media (prefers-reduced-motion: reduce) {
+    .btn:hover { animation: none; }
+  }
+  
