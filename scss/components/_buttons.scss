@@ -1,0 +1,5 @@
+@use '../abstracts/variables' as *;
+@use '../abstracts/mixins' as *;
+
+.btn{ @include btn-skin($clr-primary,$clr-primary-hover) }
+.cta-cart{ text-transform:none }

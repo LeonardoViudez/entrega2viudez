@@ -1,0 +1,21 @@
+@use 'variables' as *;
+
+@mixin mq($bp){ @media (min-width: map-get($bps,$bp)){ @content; } }
+
+@mixin btn-skin($bg,$hover){
+  background-color:$bg;
+  border:1px solid $bg;
+  transition:background-color .2s, border-color .2s;
+  &:hover{ background-color:$hover; border-color:$hover; }
+}
+
+@mixin precio($color,$bg:null){
+  color:$color;
+  font-weight:600;
+  @if $bg != null {
+    background:$bg;
+    padding:.125rem .375rem;
+    border-radius:.375rem;
+  }
+  transition:color .2s, background-color .2s;
+}

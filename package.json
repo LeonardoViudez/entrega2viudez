@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "sass": "^1.93.2"
+  },
+  "name": "entrega2-viudez",
+  "private": "true",
+  "scripts": {
+    "sass": "sass --watch scss:css --style=expanded --embed-source-map"
+  }
+}
