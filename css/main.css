@@ -148,4 +148,12 @@ footer nav li a {
   transition: color 0.2s, background-color 0.2s;
 }
 
-/*# sourceMappingURL=data:application/json;charset=utf-8,%7B%22version%22:3,%22sourceRoot%22:%22%22,%22sources%22:%5B%22../scss/base/_reset.scss%22,%22../scss/base/_typography.scss%22,%22../scss/abstracts/_variables.scss%22,%22../scss/layout/_navbar.scss%22,%22../scss/layout/_hero.scss%22,%22../scss/abstracts/_mixins.scss%22,%22../scss/layout/_footer.scss%22,%22../scss/components/_buttons.scss%22,%22../scss/components/_cards.scss%22%5D,%22names%22:%5B%5D,%22mappings%22:%22AAAA;EAAE;;;AACF;EAAU;EAAS;;;ACCnB;EAAM,aCGG;EDHoB,kBCFrB;;;ADGR;EAAQ,aCGI;EDHsB;;;AEDlC;EAAS,kBDFD;;;AEGR;EAAO;EAAmB;;ACDV;EDChB;IAA6D;;;;AAC7D;EAAe;;;AACf;EAAa;EAAmB;EAAS;EAAiB;;;AAC1D;EAAoB;EAAmB;EAAS;EAAU;EAAgB;EAAgB;EAAgB;EAAiB;EAAgC;EAAqB;;;AAChL;EAAe;EAAmB;EAAS;EAA4B;;;AACvE;EAAc;;ACNE;EDMhB;IAAgD;;;;AAChD;EAAiB;EAAmB;;;AACpC;EAAY;EAAkC;;;AAC9C;EAAW;;;ACTK;EDUhB;IAAgC;;;;AEVhC;EAAiB;EAAsB;;;AAEvC;EACE;EACA;EACA;EACA;;ADNc;ECEhB;IAKmB;;;;ACNnB;EFEE,kBHJW;EGKX;EACA;;AACA;EAAS,kBHNQ;EGMiB,cHNjB;;;AKEnB;EAAW;;;ACDX;EAAkB;;;AAIlB;EACE;;AACA;EAAI;;;AAGN;EHAE,OHFS;EGGT;EAMA;;;AGNF;EHDE,OHDS;EGET;EAEE,YHHU;EGIV;EACA;EAEF%22,%22file%22:%22main.css%22%7D */
+.hero-secprod .hero-overlay {
+  background: rgba(0, 0, 0, 0.45);
+}
+.hero-secprod .titulo-hero,
+.hero-secprod .hero-bajada {
+  color: #fff3ea;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8,%7B%22version%22:3,%22sourceRoot%22:%22%22,%22sources%22:%5B%22../scss/base/_reset.scss%22,%22../scss/base/_typography.scss%22,%22../scss/abstracts/_variables.scss%22,%22../scss/layout/_navbar.scss%22,%22../scss/layout/_hero.scss%22,%22../scss/abstracts/_mixins.scss%22,%22../scss/layout/_footer.scss%22,%22../scss/components/_buttons.scss%22,%22../scss/components/_cards.scss%22,%22../scss/pages/_productos.scss%22%5D,%22names%22:%5B%5D,%22mappings%22:%22AAAA;EAAE;;;AACF;EAAU;EAAS;;;ACCnB;EAAM,aCGG;EDHoB,kBCFrB;;;ADGR;EAAQ,aCGI;EDHsB;;;AEDlC;EAAS,kBDFD;;;AEGR;EAAO;EAAmB;;ACDV;EDChB;IAA6D;;;;AAC7D;EAAe;;;AACf;EAAa;EAAmB;EAAS;EAAiB;;;AAC1D;EAAoB;EAAmB;EAAS;EAAU;EAAgB;EAAgB;EAAgB;EAAiB;EAAgC;EAAqB;;;AAChL;EAAe;EAAmB;EAAS;EAA4B;;;AACvE;EAAc;;ACNE;EDMhB;IAAgD;;;;AAChD;EAAiB;EAAmB;;;AACpC;EAAY;EAAkC;;;AAC9C;EAAW;;;ACTK;EDUhB;IAAgC;;;;AEVhC;EAAiB;EAAsB;;;AAEvC;EACE;EACA;EACA;EACA;;ADNc;ECEhB;IAKmB;;;;ACNnB;EFEE,kBHJW;EGKX;EACA;;AACA;EAAS,kBHNQ;EGMiB,cHNjB;;;AKEnB;EAAW;;;ACDX;EAAkB;;;AAIlB;EACE;;AACA;EAAI;;;AAGN;EHAE,OHFS;EGGT;EAMA;;;AGNF;EHDE,OHDS;EGET;EAEE,YHHU;EGIV;EACA;EAEF;;;AIhBA;EAAgB;;AAEhB;AAAA;EAEE,OPMiB%22,%22file%22:%22main.css%22%7D */
