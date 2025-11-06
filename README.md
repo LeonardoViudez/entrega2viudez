@@ -1,3 +1,3 @@
-# GINTOP — Entrega Nº3 Coderhouse
+# GINTOP — Entrega Final Coderhouse
 
-Sitio web 'Tienda Online GINTOP" con migración de CSS a SCSS, ANIMACIONES y CORRECCIONES de HTML y SEO en general.
+Sitio web 'Tienda Online GINTOP" 5 secciones y últimas correcciones de SEO.
